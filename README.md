@@ -1,5 +1,7 @@
 # Flask Template
 
+```python3 -m flask run```
+
 This sample repo contains the recommended structure for a Python Flask project. In this sample, we use `flask` to build a web application and the `pytest` to run tests.
 
  For a more in-depth tutorial, see our [Flask tutorial](https://code.visualstudio.com/docs/python/tutorial-flask).
